@@ -1,0 +1,18 @@
+{
+  "name": "mcdbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IB",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.1",
+    "events": "^3.3.0",
+    "minecraft-protocol": "^1.35.0",
+    "mineflayer": "^4.3.0"
+  }
+}
